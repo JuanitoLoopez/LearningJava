@@ -1,0 +1,65 @@
+# Programación Orientada a Objetos
+
+Existen dos formas de programas 
+
+Paradigmas de la programación
+
+Programación orientada a procedimientos
+
+Algunos ejemplos de lenguajes: Fortran, Cobol, Basic, etc.
+
+Desventajas
+
+- Unidades de código muy grandes
+- Poco reutilizable
+- Difícil de descigrar
+- Si existe fallo en alguna línea, es muy probable que el programa caiga
+- Aparición frecuente de código espagueti
+- Difícil de depurar por otros programadores
+
+Programación Orientada a objetos
+
+En que consiste?
+
+Consiste principalmente en trasladar los objetos de la vida real, al código de programación.
+
+Cual es la naturaleza de un objeto de la vida real?
+
+Los objetos tienen un estado, un comportamiento y unas propiedades
+
+Ventajas
+
+- Modularización: Puede dividirse en trozos, partes, módulos o clases.
+- Herencia: Muy reutilizable.
+- Tratamiento de Excepciones: Si existe falle en alguna linea del código, el programa continuará con su funcionamiento.
+- Encapsulamiento
+
+Terminos
+
+- Clase
+- Objeto
+- Ejemplar de clase. Instancia de clase. Ejemplarizar una clase.  Instanciar una clse.
+- Modularización
+- Encapsulamiento / encapsulación
+- Herencia
+- Polimorfismo
+
+**CLASE**
+
+Modelo donde se redactan las características comunes de un grupo de objetos
+
+**OBJETOS**
+
+Tienen propiedades (atributos):
+
+- color
+- peso
+- alto
+- largo
+
+tiene un comportamiento
+
+- arrancar
+- frenar
+- girar
+- acelerar
